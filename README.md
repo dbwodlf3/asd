@@ -14,15 +14,15 @@ spec
 
 # Repository Policy
 
-# Merge Branch
+## Merge Branch
 
 develop_integrated Branch is protecting and dont push into this branch.
 only can pull request.
 
 
-# Working Branch
+## Working Branch
 
-develop_[username]
+develop_<username> branchs are assigned for user. it is for developing. saving codes or etc...
 
 # Core
 
